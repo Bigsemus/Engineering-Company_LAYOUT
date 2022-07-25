@@ -1,8 +1,6 @@
-/* 
-
-please don't edit this styles
-
-*/
+html{
+  scroll-behavior: smooth;
+}
 
 h2.tm-section-title {
   color: lightskyblue;
